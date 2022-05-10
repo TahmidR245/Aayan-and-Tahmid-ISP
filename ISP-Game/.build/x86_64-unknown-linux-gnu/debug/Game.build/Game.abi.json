@@ -1,0 +1,590 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Game"
+    },
+    {
+      "kind": "Import",
+      "name": "Rainbow",
+      "printedName": "Rainbow",
+      "declKind": "Import",
+      "moduleName": "Game"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Constants",
+      "printedName": "Constants",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "letters",
+          "printedName": "letters",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game9ConstantsV7lettersSivpZ",
+          "mangledName": "$s4Game9ConstantsV7lettersSivpZ",
+          "moduleName": "Game",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game9ConstantsV7lettersSivgZ",
+              "mangledName": "$s4Game9ConstantsV7lettersSivgZ",
+              "moduleName": "Game",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "attempts",
+          "printedName": "attempts",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game9ConstantsV8attemptsSivpZ",
+          "mangledName": "$s4Game9ConstantsV8attemptsSivpZ",
+          "moduleName": "Game",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game9ConstantsV8attemptsSivgZ",
+              "mangledName": "$s4Game9ConstantsV8attemptsSivgZ",
+              "moduleName": "Game",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "separator",
+          "printedName": "separator",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game9ConstantsV9separatorSSvpZ",
+          "mangledName": "$s4Game9ConstantsV9separatorSSvpZ",
+          "moduleName": "Game",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game9ConstantsV9separatorSSvgZ",
+              "mangledName": "$s4Game9ConstantsV9separatorSSvgZ",
+              "moduleName": "Game",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Constants",
+              "printedName": "Game.Constants",
+              "usr": "s:4Game9ConstantsV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:4Game9ConstantsVACycfc",
+          "mangledName": "$s4Game9ConstantsVACycfc",
+          "moduleName": "Game",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:4Game9ConstantsV",
+      "mangledName": "$s4Game9ConstantsV",
+      "moduleName": "Game",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Board",
+      "printedName": "Board",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "solution",
+          "printedName": "solution",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game5BoardV8solutionSSvp",
+          "mangledName": "$s4Game5BoardV8solutionSSvp",
+          "moduleName": "Game",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game5BoardV8solutionSSvg",
+              "mangledName": "$s4Game5BoardV8solutionSSvg",
+              "moduleName": "Game",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "attempts",
+          "printedName": "attempts",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game5BoardV8attemptsSaySSGvp",
+          "mangledName": "$s4Game5BoardV8attemptsSaySSGvp",
+          "moduleName": "Game",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game5BoardV8attemptsSaySSGvg",
+              "mangledName": "$s4Game5BoardV8attemptsSaySSGvg",
+              "moduleName": "Game",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game5BoardV8attemptsSaySSGvs",
+              "mangledName": "$s4Game5BoardV8attemptsSaySSGvs",
+              "moduleName": "Game",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game5BoardV8attemptsSaySSGvM",
+              "mangledName": "$s4Game5BoardV8attemptsSaySSGvM",
+              "moduleName": "Game",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "solved",
+          "printedName": "solved",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Game5BoardV6solvedSbvp",
+          "mangledName": "$s4Game5BoardV6solvedSbvp",
+          "moduleName": "Game",
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Game5BoardV6solvedSbvg",
+              "mangledName": "$s4Game5BoardV6solvedSbvg",
+              "moduleName": "Game",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "render",
+          "printedName": "render()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:4Game5BoardV6renderSSyF",
+          "mangledName": "$s4Game5BoardV6renderSSyF",
+          "moduleName": "Game",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(solution:attempts:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Board",
+              "printedName": "Game.Board",
+              "usr": "s:4Game5BoardV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:4Game5BoardV8solution8attemptsACSS_SaySSGtcfc",
+          "mangledName": "$s4Game5BoardV8solution8attemptsACSS_SaySSGtcfc",
+          "moduleName": "Game",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:4Game5BoardV",
+      "mangledName": "$s4Game5BoardV",
+      "moduleName": "Game",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Game",
+      "printedName": "Game",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "main",
+          "printedName": "main()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:4GameAAV4mainyyFZ",
+          "mangledName": "$s4GameAAV4mainyyFZ",
+          "moduleName": "Game",
+          "static": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Game",
+              "printedName": "Game.Game",
+              "usr": "s:4GameAAV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:4GameAAVABycfc",
+          "mangledName": "$s4GameAAVABycfc",
+          "moduleName": "Game",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:4GameAAV",
+      "mangledName": "$s4GameAAV",
+      "moduleName": "Game",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Game"
+    },
+    {
+      "kind": "Var",
+      "name": "words",
+      "printedName": "words",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:4Game5wordsSaySSGvp",
+      "mangledName": "$s4Game5wordsSaySSGvp",
+      "moduleName": "Game",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    }
+  ],
+  "json_format_version": 6
+}

@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/onevcat/rainbow" : {
+        "repositoryURL" : "https://github.com/onevcat/rainbow",
+        "subpath" : "rainbow-33ee35e7"
+      }
+    }
+  },
+  "version" : 1
+}

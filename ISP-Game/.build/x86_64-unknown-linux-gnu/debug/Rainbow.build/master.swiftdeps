@@ -1,0 +1,16 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1652153018, 266182899]
+build_end_time: [1652153025, 30776977]
+inputs:
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/BackgroundColor.swift": [1652153017, 563983917]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/CodesParser.swift": [1652153017, 567983865]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Color.swift": [1652153017, 571983814]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ColorApproximation.swift": [1652153017, 575983524]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ControlCode.swift": [1652153017, 579983234]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ModesExtractor.swift": [1652153017, 587983131]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/OutputTarget.swift": [1652153017, 591982841]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Rainbow.swift": [1652153017, 595982551]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/String+Rainbow.swift": [1652153017, 599982500]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/StringGenerator.swift": [1652153017, 603982448]
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Style.swift": [1652153017, 607982158]

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/master.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/Sources/Game/main.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/main.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/main.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/main.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/Sources/Game/words.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/words.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/words.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/words~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Game.build/words.swiftdeps"
+  }
+}

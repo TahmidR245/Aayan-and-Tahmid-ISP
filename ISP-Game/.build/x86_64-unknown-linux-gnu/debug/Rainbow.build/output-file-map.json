@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/master.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/BackgroundColor.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/BackgroundColor.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/BackgroundColor.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/BackgroundColor~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/BackgroundColor.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/CodesParser.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/CodesParser.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/CodesParser.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/CodesParser~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/CodesParser.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Color.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Color.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Color.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Color~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Color.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ColorApproximation.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ColorApproximation.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ColorApproximation.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ColorApproximation~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ColorApproximation.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ControlCode.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ControlCode.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ControlCode.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ControlCode~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ControlCode.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/ModesExtractor.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ModesExtractor.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ModesExtractor.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ModesExtractor~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/ModesExtractor.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/OutputTarget.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/OutputTarget.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/OutputTarget.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/OutputTarget~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/OutputTarget.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Rainbow.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Rainbow.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Rainbow.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Rainbow~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Rainbow.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/String+Rainbow.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/String+Rainbow.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/String+Rainbow.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/String+Rainbow~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/String+Rainbow.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/StringGenerator.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/StringGenerator.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/StringGenerator.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/StringGenerator~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/StringGenerator.swiftdeps"
+  },
+  "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/checkouts/rainbow/Sources/Style.swift": {
+    "dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Style.d",
+    "object": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Style.swift.o",
+    "swiftmodule": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Style~partial.swiftmodule",
+    "swift-dependencies": "/home/tahmid-rahman/Projects/isp/Aayan-and-Tahmid-ISP/ISP-Game/.build/x86_64-unknown-linux-gnu/debug/Rainbow.build/Style.swiftdeps"
+  }
+}
