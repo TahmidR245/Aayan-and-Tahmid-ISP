@@ -1,4 +1,4 @@
-limport Foundation
+import Foundation
 import Rainbow
 //required libraries
 //Rainbow library used for outputting color
@@ -32,7 +32,7 @@ struct Board {
 
     private func renderRow(attempt: String?) -> String {
         guard let attempt = attempt?.lowercased() else {
-            return Array(repeating: "▯", count: Constants.letters).joined(separator: Constants.separator)
+            return Array(repeating: "_", count: Constants.letters).joined(separator: Constants.separator)
         }
         var letters: [String] = []
         for (solutionLetter, attemptLetter) in zip(solution, attempt) {
