@@ -20,7 +20,9 @@ struct Board {
     var solved: Bool {
         attempts.contains(solution)
     }
-
+/// Two functions below are used for rendering 
+/// render will be used to loop through the player's attempts to see if it matches the word and it will also be used to append their answers 
+/// renderRow will be used to create the actual board and it will check if the letters in the users attempts correspond with the actual word
     func render() -> String {
         var rows = [String]()
         for rowIndex in 0..<Constants.attempts {
